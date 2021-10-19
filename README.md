@@ -26,11 +26,11 @@ Vamos a crear un sitio web que redirecciona a páginas diferentes en función de
 
 <h2>Ejercicio 9</h2>
 Hacer un euroconversor de euros:
-<li>
-<ul>De euros a pesetas.</ul>
-<ul>De euros a pesetas o a dólares (que el usuario elija una moneda).</ul>
-<ul>Realizar el conversor de monedas en una única página.</ul>
-</li>
+<ol>
+<li>De euros a pesetas.</li>
+<li>De euros a pesetas o a dólares (que el usuario elija una moneda).</li>
+<li>Realizar el conversor de monedas en una única página.</li>
+</ol>
 <h2>Ejercicio 10</h2>
 Confeccionar una página que muestre un contrato con puntos suspensivos donde el usuario debe ingresar un texto. La página que procesa el formulario debe mostrar el contrato con las modificaciones que hizo el usuario:
 
