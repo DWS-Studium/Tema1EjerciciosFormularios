@@ -1,4 +1,7 @@
 <HTML>
+    <!-- Crea un formulario que solicite el nombre y permita seleccionar 
+    un idioma (Español, Inglés y Francés). En función del idioma seleccionado, 
+    devolverá un saludo personalizado en dicho idioma (Hi Ana!). -->
 <head>
 <title>Respuesta a la petición de datos</title>
 </head>
